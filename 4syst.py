@@ -135,7 +135,6 @@ class SaleSystemCLI:
             elif choice == "8":
                 self.list_receipts()
             elif choice == "9":
-                print("Exiting system. Goodbye!")
                 break
             else:
                 print("Invalid option, try again.")
